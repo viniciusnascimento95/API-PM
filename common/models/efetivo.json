@@ -1,0 +1,35 @@
+{
+  "name": "efetivo",
+  "plural": "efetivos",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "matricula": {
+      "type": "string",
+      "required": true
+    },
+    "nome": {
+      "type": "string",
+      "required": true
+    },
+    "nome_de_guerra": {
+      "type": "string",
+      "required": true
+    },
+    "telefone": {
+      "type": "string",
+      "required": true
+    },
+    "graduacao": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
