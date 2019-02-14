@@ -1,11 +1,12 @@
 {
   "ids": {
-    "efetivo": 3
+    "efetivo": 4
   },
   "models": {
     "efetivo": {
       "1": "{\"matricula\":\"1000\",\"nome\":\"vinicius\",\"nome_de_guerra\":\"souza\",\"telefone\":\"0000\",\"graduacao\":\"cel\",\"id\":1}",
-      "2": "{\"matricula\":\"1001\",\"nome\":\"nascimento\",\"nome_de_guerra\":\"marques\",\"telefone\":\"0000\",\"graduacao\":\"SD\",\"id\":2}"
+      "2": "{\"matricula\":\"1001\",\"nome\":\"nascimento\",\"nome_de_guerra\":\"marques\",\"telefone\":\"0000\",\"graduacao\":\"SD\",\"id\":2}",
+      "3": "{\"matricula\":\"1002\",\"nome\":\"Juan\",\"nome_de_guerra\":\"Petrus\",\"telefone\":\"696969\",\"graduacao\":\"CAP\",\"id\":3}"
     }
   }
 }

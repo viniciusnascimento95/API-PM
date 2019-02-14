@@ -16,5 +16,9 @@
   "efetivo": {
     "dataSource": "db",
     "public": true
+  },
+  "caveira": {
+    "dataSource": "pm",
+    "public": true
   }
 }

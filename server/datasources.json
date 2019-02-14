@@ -4,5 +4,15 @@
     "localStorage": "",
     "file": "db.json",
     "connector": "memory"
+  },
+  "pm": {
+    "host": "158.69.134.148",
+    "port": 3306,
+    "url": "",
+    "database": "codenigh_dba",
+    "password": "vini@0101",
+    "name": "pm",
+    "user": "codenigh_vini",
+    "connector": "mysql"
   }
 }
