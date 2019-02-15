@@ -1,12 +1,16 @@
 {
   "ids": {
-    "efetivo": 4
+    "efetivo": 8
   },
   "models": {
     "efetivo": {
       "1": "{\"matricula\":\"1000\",\"nome\":\"vinicius\",\"nome_de_guerra\":\"souza\",\"telefone\":\"0000\",\"graduacao\":\"cel\",\"id\":1}",
       "2": "{\"matricula\":\"1001\",\"nome\":\"nascimento\",\"nome_de_guerra\":\"marques\",\"telefone\":\"0000\",\"graduacao\":\"SD\",\"id\":2}",
-      "3": "{\"matricula\":\"1002\",\"nome\":\"Juan\",\"nome_de_guerra\":\"Petrus\",\"telefone\":\"696969\",\"graduacao\":\"CAP\",\"id\":3}"
+      "3": "{\"matricula\":\"1002\",\"nome\":\"Juan\",\"nome_de_guerra\":\"Petrus\",\"telefone\":\"696969\",\"graduacao\":\"CAP\",\"id\":3}",
+      "4": "{\"matricula\":\"1003\",\"nome\":\"RENATO WILLIAM SANTANA FAGUNDES\",\"nome_de_guerra\":\"FAGUNDES\",\"telefone\":\"69992221828\",\"graduacao\":\" 3º SARGENTO PM\",\"id\":4}",
+      "5": "{\"matricula\":\"1004\",\"nome\":\"DOUGLAS MARINK DE MIRANDA\",\"nome_de_guerra\":\"MARINK\",\"telefone\":\"69984857353\",\"graduacao\":\" CAPITAO PM\",\"id\":5}",
+      "6": "{\"matricula\":\"1005\",\"nome\":\" VALDINEI SOUZA OLIVEIRA\",\"nome_de_guerra\":\"VALDINEI\",\"telefone\":\"69992014688\",\"graduacao\":\"3º SARGENTO PM\",\"id\":6}",
+      "7": "{\"matricula\":\"1006\",\"nome\":\"ALBERTO ANDRADE DO NASCIMENTO\",\"nome_de_guerra\":\"ALBERTO\",\"telefone\":\"(69) 99257-7645\",\"graduacao\":\"3º SARGENTO PM\",\"id\":7}"
     }
   }
 }
